@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Zheyuan Zhang"
 title_separator          : "-"
 name                     : &name "Zheyuan Zhang"
-description              : &description "3rd year Master Student at Tsinghua University, KEG"
+description              : &description "Master Student at Tsinghua University, KEG"
 url                      : https://zheyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Zheyuan Zhang"
   # pronouns         : "he/him"  
-  bio              : "3rd year Master Student at Tsinghua University, KEG"
+  bio              : "Master Student at Tsinghua University, KEG"
   location         : "Beijing, China"
   # employer         : "Tsinghua University"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  # github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : Sparrow1810
 facebook:
   username               :
   app_id                 :
@@ -145,9 +145,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "G-HM27PPWRGS"
 
 
 # Reading Files
