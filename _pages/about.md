@@ -18,6 +18,7 @@ As a researcher in AI and NLP, I am dedicated to understanding advanced models f
 News
 ------
 
+- [Nov. 2024] Our paper [Slide2Lecture](https://arxiv.org/abs/2409.07372) is **accepted by KDD 2025**!!!
 - [Sept. 2024] I'm honored to be selected as a [Siebel Scholar of Class 2025](https://www.siebelscholars.com/articles/siebel-scholars-foundation-announces-class-of-2025/).
 - [July 2024] Our online teaching platform [MAIC](https://arxiv.org/abs/2409.03512v1) was deployed at Tsinghua University as the first multi-agent AI education system, offering two courses to over 500 students in the previous semester. Check related works here: [SimClass](https://arxiv.org/abs/2406.19226), [Slide2Lecture](https://arxiv.org/abs/2409.07372).
 
@@ -37,7 +38,7 @@ Selected Publications
 
 - **Zhang, Z.**\*, Zhang-Li, D.\*, Yu, J., Gong, L., Zhou, J., Liu, Z., Hou, L., Li, J. (2024). Simulating Classroom Education with LLM-Empowered Agents. arXiv preprint arXiv:2406.19226. [[pdf](https://arxiv.org/abs/2406.19226)]
 - Tu, S.\*, **Zhang, Z.**\*, Yu, J., Li, C., Zhang, S., Yao, Z., ... Li, J. (2023). LittleMu: Deploying an Online Virtual Teaching Assistant via Heterogeneous Sources Integration and Chain of Teach Prompts. *CIKM 2023*. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3583780.3615484)]
-- Zhang-Li, D.\*, **Zhang, Z.**\*, Yu, J., Yin, J. L. J., Tu, S., Gong, L., ... Li, J. (2024). Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination. arXiv preprint arXiv:2409.07372. [[pdf](https://arxiv.org/abs/2409.07372)]
+- Zhang-Li, D.\*, **Zhang, Z.**\*, Yu, J., Yin, J. L. J., Tu, S., Gong, L., ... Li, J. (2024). Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination. *KDD 2025* [[pdf](https://arxiv.org/abs/2409.07372)]
 - Yu, J., **Zhang, Z.**, Zhang-Li, D., Tu, S., Hao, Z., Li, R. M., ... Sun, M. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. arXiv preprint arXiv:2409.03512. [[pdf](https://arxiv.org/abs/2409.03512v1)]
 
 
