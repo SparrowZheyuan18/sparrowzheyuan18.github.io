@@ -59,7 +59,7 @@ Awards / Honors
 
 
 
-Others
+Misc
 ------
 
 When I'm not doing research, I’m passionate about sports, especially basketball and track and field. I hold the standing long jump record at Tsinghua University (3.22m). I love music, reading, and movies, which keep me thoughtful, enthusiastic, and fulfilling.
