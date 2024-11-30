@@ -52,6 +52,7 @@ Awards / Honors
 ------
 
 - **[2024] Siebel Scholar, Class 2025.** Top 5 in Tsinghua University, 78 students around the world in [Class 2025](https://www.siebelscholars.com/articles/siebel-scholars-foundation-announces-class-of-2025/).
+- **[2024] Huiyan Talent Comprehensive Scholarship.** Comprehensive Scholarship for guaduate students.
 - **[2022] Outstanding Graduates.** Selected as Outstanding Graduates of Tsinghua University, Outstanding Graduates of Beijing.
 - **[2021] Toyota Scholarship of Tsinghua University.** One of the best Comprehensive Scholarships in Tsinghua University.
 - **[2019, 2020, 2021] Excellent Comprehensive Scholarship of Tsinghua Unversity.** Awards for comprehensive performance in academic and others.
