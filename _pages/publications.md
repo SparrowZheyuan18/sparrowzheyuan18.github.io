@@ -10,12 +10,15 @@ author_profile: true
 
 ## Preprints
 
-- **Zhang, Z.**\*, Zhang-Li, D.\*, Yu, J., Gong, L., Zhou, J., Liu, Z., Hou, L., Li, J. (2024). Simulating Classroom Education with LLM-Empowered Agents. arXiv preprint arXiv:2406.19226. [[pdf](https://arxiv.org/abs/2406.19226)]
 - Yu, J., **Zhang, Z.**, Zhang-li, D., Tu, S., Hao, Z., Li, R. M., ... Sun, M. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. arXiv preprint arXiv:2409.03512. [[pdf](https://arxiv.org/abs/2409.03512v1)]
 - Zhong, Q., Yu, J., **Zhang, Z.**, Mao, Y., Wang, Y., Lin, Y., ... & Tang, J. (2022). Towards a General Pre-training Framework for Adaptive Learning in MOOCs. arXiv preprint arXiv:2208.04708. [[pdf](https://arxiv.org/pdf/2208.04708)]
 - Zhang-Li, D., Lin, N., Yu, J., **Zhang, Z.**, Yao, Z., ... Li, J. (2024). Reverse That Number! Decoding Order Matters in Arithmetic Learning. arXiv preprint arXiv:2403.05845. [[pdf](https://arxiv.org/abs/2403.05845)]
 
 ## Publications
+
+### 2025
+- **Zhang, Z.**\*, Zhang-Li, D.\*, Yu, J., Gong, L., Zhou, J., Liu, Z., Hou, L., Li, J. (2024). Simulating Classroom Education with LLM-Empowered Agents. *NAACL 2025*. [[pdf](https://arxiv.org/abs/2406.19226)]
+
 
 ### 2024
 - Sabour, S., Liu, S., **Zhang, Z.**, Liu, J. M., Zhou, J., ... Huang, M. (2024). EmoBench: Evaluating the Emotional Intelligence of Large Language Models. *ACL 2024*. [[pdf](https://aclanthology.org/2024.acl-long.326/)]
