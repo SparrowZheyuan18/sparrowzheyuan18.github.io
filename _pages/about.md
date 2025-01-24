@@ -18,7 +18,7 @@ As a researcher in AI and NLP, I am dedicated to understanding advanced models f
 News
 ------
 
-- [Jan. 2025] Our paper [SimClass](https://arxiv.org/abs/2406.19226) is **accepted by NAACL 2025**. See you in New Maxico!
+- [Jan. 2025] Our paper [SimClass](https://arxiv.org/abs/2406.19226) is **accepted by NAACL 2025**. See you in New Mexico!
 - [Nov. 2024] Our paper [Slide2Lecture](https://arxiv.org/abs/2409.07372) is **accepted by KDD 2025**!!!
 - [Sept. 2024] I'm honored to be selected as a [Siebel Scholar of Class 2025](https://www.siebelscholars.com/articles/siebel-scholars-foundation-announces-class-of-2025/).
 - [July 2024] Our online teaching platform [MAIC](https://www.maic.tsinghua.edu.cn/) was deployed at Tsinghua University as the first multi-agent AI education system, offering two courses to over 500 students in the previous semester. Check related works here: [SimClass](https://arxiv.org/abs/2406.19226), [Slide2Lecture](https://arxiv.org/abs/2409.07372).
