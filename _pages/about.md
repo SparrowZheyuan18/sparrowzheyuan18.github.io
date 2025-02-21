@@ -31,7 +31,7 @@ Selected Publications
 
 ### Cognitively Understanding and Improving Language Models:
 
-- Zhang, Z., Li, R., Kabir, T., Boyd-Graber, J. (2025). NAVIG: Natural Language-guided Analysis with Vision Language Models for Image Geo-localization. arXiv preprint arXiv:2502.14638. [[pdf](https://arxiv.org/abs/2502.14638)]
+- **Zhang, Z.**, Li, R., Kabir, T., Boyd-Graber, J. (2025). NAVIG: Natural Language-guided Analysis with Vision Language Models for Image Geo-localization. arXiv preprint arXiv:2502.14638. [[pdf](https://arxiv.org/abs/2502.14638)]
 - **Zhang, Z.**, Yu, J., Li, J., Hou, L. (2023). Exploring the Cognitive Knowledge Structure of Large Language Models: An Educational Diagnostic Assessment Approach. *EMNLP 2023 Findings*. [[pdf](https://aclanthology.org/2023.findings-emnlp.111/)]
 - Sabour, S., Liu, S., **Zhang, Z.**, Liu, J. M., Zhou, J., ... Huang, M. (2024). EmoBench: Evaluating the Emotional Intelligence of Large Language Models. *ACL 2024*. [[pdf](https://aclanthology.org/2024.acl-long.326/)]
 - Zhang-Li, D., Lin, N., Yu, J., **Zhang, Z.**, Yao, Z., ... Li, J. (2024). Reverse That Number! Decoding Order Matters in Arithmetic Learning. arXiv preprint arXiv:2403.05845. [[pdf](https://arxiv.org/abs/2403.05845)]
