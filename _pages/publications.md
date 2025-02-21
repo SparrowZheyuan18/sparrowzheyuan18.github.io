@@ -29,6 +29,7 @@ author_profile: true
 
 ## Preprints
 
+- **Zhang, Z.**, Li, R., Kabir, T., Boyd-Graber, J. (2025). NAVIG: Natural Language-guided Analysis with Vision Language Models for Image Geo-localization. arXiv preprint arXiv:2502.14638. [[pdf](https://arxiv.org/abs/2502.14638)]
 - Yu, J., **Zhang, Z.**, Zhang-li, D., Tu, S., Hao, Z., Li, R. M., ... Sun, M. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. arXiv preprint arXiv:2409.03512. [[pdf](https://arxiv.org/abs/2409.03512v1)]
 - Zhong, Q., Yu, J., **Zhang, Z.**, Mao, Y., Wang, Y., Lin, Y., ... & Tang, J. (2022). Towards a General Pre-training Framework for Adaptive Learning in MOOCs. arXiv preprint arXiv:2208.04708. [[pdf](https://arxiv.org/pdf/2208.04708)]
 - Zhang-Li, D., Lin, N., Yu, J., **Zhang, Z.**, Yao, Z., ... Li, J. (2024). Reverse That Number! Decoding Order Matters in Arithmetic Learning. arXiv preprint arXiv:2403.05845. [[pdf](https://arxiv.org/abs/2403.05845)]

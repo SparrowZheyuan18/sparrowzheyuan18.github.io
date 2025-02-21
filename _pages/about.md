@@ -11,7 +11,7 @@ I am a third-year master student at the [Knowledge Engineering Group](https://ke
 
 As a researcher in AI and NLP, I am dedicated to understanding advanced models from the perspectives of intelligence and cognition, and to developing AI systems and applications that truly benefit humanity and society. Some of the projects I worked on are listed below:
 
-1. **Cognitively Understanding Language Models**: [Cognitive Diagnostic of LLMs](https://aclanthology.org/2023.findings-emnlp.111/), [EmoBench](https://aclanthology.org/2024.acl-long.326/), [Arithmetic Learning](https://arxiv.org/abs/2403.05845), [KoLA](https://iclr.cc/virtual/2024/poster/19238).
+1. **Cognitively Understanding and Improving Language Models**: [Cognitive Diagnostic of LLMs](https://aclanthology.org/2023.findings-emnlp.111/), [EmoBench](https://aclanthology.org/2024.acl-long.326/), [Arithmetic Learning](https://arxiv.org/abs/2403.05845), [KoLA](https://iclr.cc/virtual/2024/poster/19238).
 2. **AI for Education**: [SimClass](https://arxiv.org/abs/2406.19226), [MAIC](https://arxiv.org/abs/2409.03512v1), [Slide2Lecture](https://arxiv.org/abs/2409.07372), [LittleMu](https://arxiv.org/abs/2308.05935).
 
 
@@ -29,8 +29,9 @@ Selected Publications
 
 \* indicates equal contribution. Please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=mKeVR_oAAAAJ) for the full list.
 
-### Cognitively Understanding Language Models:
+### Cognitively Understanding and Improving Language Models:
 
+- Zhang, Z., Li, R., Kabir, T., Boyd-Graber, J. (2025). NAVIG: Natural Language-guided Analysis with Vision Language Models for Image Geo-localization. arXiv preprint arXiv:2502.14638. [[pdf](https://arxiv.org/abs/2502.14638)]
 - **Zhang, Z.**, Yu, J., Li, J., Hou, L. (2023). Exploring the Cognitive Knowledge Structure of Large Language Models: An Educational Diagnostic Assessment Approach. *EMNLP 2023 Findings*. [[pdf](https://aclanthology.org/2023.findings-emnlp.111/)]
 - Sabour, S., Liu, S., **Zhang, Z.**, Liu, J. M., Zhou, J., ... Huang, M. (2024). EmoBench: Evaluating the Emotional Intelligence of Large Language Models. *ACL 2024*. [[pdf](https://aclanthology.org/2024.acl-long.326/)]
 - Zhang-Li, D., Lin, N., Yu, J., **Zhang, Z.**, Yao, Z., ... Li, J. (2024). Reverse That Number! Decoding Order Matters in Arithmetic Learning. arXiv preprint arXiv:2403.05845. [[pdf](https://arxiv.org/abs/2403.05845)]
