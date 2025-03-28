@@ -47,7 +47,7 @@ Selected Publications
 Professional Services
 ------
 
-- Reviewer: ACL Rolling Review 2024 (Feb., Jun., Aug.), CIKM 2024.
+- Reviewer: ACL Rolling Review 2024 (Feb., Jun., Aug., Oct., Dec.) & 2025 (Feb.), CIKM 2024., KDD 2025, AAAI 2025
 
 
 Awards / Honors
