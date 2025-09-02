@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at the Language Technology Institude in Carnegie Mellon University, advised by [Prof. Sherry Wu](https://www.cs.cmu.edu/~sherryw/) at the [WInE Lab🍷](https://www.cs.cmu.edu/~sherryw/group.html). 
+I am a first-year Ph.D. student at the Language Technology Institude in Carnegie Mellon University, advised by [Prof. Sherry Wu](https://www.cs.cmu.edu/~sherryw/) at the [WInE Lab🍷](https://www.cs.cmu.edu/~sherryw/group.html). 
 
 Previously I was a Master student at the [Knowledge Engineering Group](https://keg.cs.tsinghua.edu.cn/) in Tsinghua University, advised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and work closely with [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). I visited [CLIP Lab@UMD](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) in 2024 where I work with [Prof. Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/). In 2022, I obtained my Bachelor of Laws (LL.B.) degree in Philosophy, Politics, and Economy ([PPE](https://www.xyc.tsinghua.edu.cn/en/info/1111/1373.htm)) in Xinya College at Tsinghua University, while also completing a minor in Psychology. I have a broad interest in social sciences and cognitive sciences, receiving research training in these interdisciplinary fields. You can find my CV [here](/cv/).
 
