@@ -24,7 +24,9 @@ I am dedicated to understanding advanced models from the perspectives of intelli
 1. **Cognitively Understanding and Improving Language Models**: [Cognitive Diagnostic of LLMs](https://aclanthology.org/2023.findings-emnlp.111/), [EmoBench](https://aclanthology.org/2024.acl-long.326/), [Arithmetic Learning](https://arxiv.org/abs/2403.05845), [KoLA](https://iclr.cc/virtual/2024/poster/19238).
 2. **AI for Education**: [SimClass](https://arxiv.org/abs/2406.19226), [MAIC](https://arxiv.org/abs/2409.03512v1), [Slide2Lecture](https://arxiv.org/abs/2409.07372), [LittleMu](https://arxiv.org/abs/2308.05935).
 
-I'm currently working on ***Human-Agent Interaction***, particularly Deep Research, Collaborative Literature Exploration, and Sensemaking. I believe deep research agents should be fundamentally user-centric---assisting users to make sense and inspiring new ideas---making sustained user engagement essential. I study how users make decisions (data) and how to sensemake collaboratively (model).
+I'm currently working on ***Human-Agent Interaction***, particularly Deep Research, Collaborative Literature Exploration, and Sensemaking. 
+
+I believe deep research agents should be fundamentally user-centric---assisting users to make sense and inspiring new ideas---making sustained user engagement essential. I study how users make decisions (data) and how to sensemake collaboratively (model).
 
 
 News
