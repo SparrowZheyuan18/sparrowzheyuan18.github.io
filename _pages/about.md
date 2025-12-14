@@ -9,11 +9,15 @@ redirect_from:
 
 I am a first-year Ph.D. student at CMU LTI, advised by [Prof. Sherry Wu](https://www.cs.cmu.edu/~sherryw/) at the [WInE Lab🍷](https://www.cs.cmu.edu/~sherryw/group.html). 
 
-I did my master at [KEG](https://keg.cs.tsinghua.edu.cn/) in Tsinghua University, and was fortunate to work with [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). I visited [CLIP Lab@UMD](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) in 2024 where I work with [Prof. Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/). 
+I did my master at [KEG](https://keg.cs.tsinghua.edu.cn/) in Tsinghua University. I was fortunate to work with [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). I visited [CLIP Lab@UMD](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) in 2024 where I work with [Prof. Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/). 
 
-In 2022, I obtained my Bachelor of Laws (LL.B.) degree in Philosophy, Politics, and Economy ([PPE](https://www.xyc.tsinghua.edu.cn/en/info/1111/1373.htm)) in Xinya College at Tsinghua University, while also completing a minor in Psychology. 
+I obtained my Bachelor of Laws (LL.B.) degree in Philosophy, Politics, and Economy ([PPE](https://www.xyc.tsinghua.edu.cn/en/info/1111/1373.htm)) and a minor in Psychology at Tsinghua University. 
 
 I have a broad interest in social sciences and cognitive sciences, receiving research training in these interdisciplinary fields. You can find my CV [here](/cv/).
+
+
+Research
+------
 
 As a researcher in AI and NLP, I am dedicated to understanding advanced models from the perspectives of intelligence and cognition, and to developing AI systems and applications that truly benefit humanity and society. Some of the projects I worked on are listed below:
 
@@ -24,9 +28,11 @@ As a researcher in AI and NLP, I am dedicated to understanding advanced models f
 News
 ------
 
-- [Jan. 2025] Our paper [SimClass](https://arxiv.org/abs/2406.19226) is **accepted by NAACL 2025**. See you in New Mexico!
-- [Nov. 2024] Our paper [Slide2Lecture](https://arxiv.org/abs/2409.07372) is **accepted by KDD 2025**!!!
-- [Sept. 2024] I'm honored to be selected as a [Siebel Scholar of Class 2025](https://www.siebelscholars.com/articles/siebel-scholars-foundation-announces-class-of-2025/).
+- [Dec 2025] MAIC has reached more than 80,000 learners.
+- [Aug 2025] Excited to join CMU LTI as a Ph.D. student!
+- [Jan 2025] Our paper [SimClass](https://arxiv.org/abs/2406.19226) is **accepted by NAACL 2025**. See you in New Mexico!
+- [Nov 2024] Our paper [Slide2Lecture](https://arxiv.org/abs/2409.07372) is **accepted by KDD 2025**!!!
+- [Sept 2024] I'm honored to be selected as a [Siebel Scholar of Class 2025](https://www.siebelscholars.com/articles/siebel-scholars-foundation-announces-class-of-2025/).
 - [July 2024] Our online teaching platform [MAIC](https://www.maic.tsinghua.edu.cn/) was deployed at Tsinghua University as the first multi-agent AI education system, offering two courses to over 500 students in the previous semester. Check related works here: [SimClass](https://arxiv.org/abs/2406.19226), [Slide2Lecture](https://arxiv.org/abs/2409.07372).
 
 
@@ -53,12 +59,14 @@ Selected Publications
 Professional Services
 ------
 
-- Reviewer: ACL Rolling Review 2024 (Feb., Jun., Aug., Oct., Dec.) & 2025 (Feb.), CIKM 2024, KDD 2025, AAAI 2025
+- Reviewer: CIKM 2024, ACL/NAACL/EMNLP 2024/2025 (ARR), AAAI 2025, KDD 2025/2026, WWW 2026.
 
 
 Awards / Honors
 ------
 
+- **[2025] Outstanding Master's Thesis.** Title: Intelligent Classrooms based on Large Language Model Agents.
+- **[2025] Outstanding Graduates.** Outstanding Graduates of Beijing. Top 2 in Master Students. 
 - **[2024] Siebel Scholar, Class 2025.** Top 5 in Tsinghua University, 78 students around the world in [Class 2025](https://www.siebelscholars.com/articles/siebel-scholars-foundation-announces-class-of-2025/).
 - **[2024] Huiyan Talent Comprehensive Scholarship.** Comprehensive Scholarship for guaduate students.
 - **[2022] Outstanding Graduates.** Selected as Outstanding Graduates of Tsinghua University, Outstanding Graduates of Beijing.

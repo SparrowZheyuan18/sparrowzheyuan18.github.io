@@ -1,0 +1,16 @@
+current directory: /Users/zzy/Desktop/科研/zheyuan.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/zzy/Desktop/科研/zheyuan.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20251214-86803-n1c70t sitelibdir\=./.gem.20251214-86803-n1c70t clean
+
+current directory: /Users/zzy/Desktop/科研/zheyuan.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20251214-86803-n1c70t sitelibdir\=./.gem.20251214-86803-n1c70t
+make: Nothing to be done for `all'.
+
+current directory: /Users/zzy/Desktop/科研/zheyuan.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20251214-86803-n1c70t sitelibdir\=./.gem.20251214-86803-n1c70t install
+
+current directory: /Users/zzy/Desktop/科研/zheyuan.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20251214-86803-n1c70t sitelibdir\=./.gem.20251214-86803-n1c70t clean
