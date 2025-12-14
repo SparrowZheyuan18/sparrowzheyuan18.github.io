@@ -43,17 +43,40 @@ Selected Publications
 
 ### Cognitively Understanding and Improving Language Models:
 
-- **Zhang, Z.**, Li, R., Kabir, T., Boyd-Graber, J. (2025). NAVIG: Natural Language-guided Analysis with Vision Language Models for Image Geo-localization. arXiv preprint arXiv:2502.14638. [[pdf](https://arxiv.org/abs/2502.14638)]
-- **Zhang, Z.**, Yu, J., Li, J., Hou, L. (2023). Exploring the Cognitive Knowledge Structure of Large Language Models: An Educational Diagnostic Assessment Approach. *EMNLP 2023 Findings*. [[pdf](https://aclanthology.org/2023.findings-emnlp.111/)]
-- Sabour, S., Liu, S., **Zhang, Z.**, Liu, J. M., Zhou, J., ... Huang, M. (2024). EmoBench: Evaluating the Emotional Intelligence of Large Language Models. *ACL 2024*. [[pdf](https://aclanthology.org/2024.acl-long.326/)]
-- Zhang-Li, D., Lin, N., Yu, J., **Zhang, Z.**, Yao, Z., ... Li, J. (2024). Reverse That Number! Decoding Order Matters in Arithmetic Learning. arXiv preprint arXiv:2403.05845. [[pdf](https://arxiv.org/abs/2403.05845)]
+1. **[NAVIG: Natural Language-guided Analysis with Vision Language Models for Image Geo-localization](https://arxiv.org/abs/2502.14638)**  
+[Z. Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en), R. Li, T. Kabir, J. Boyd-Graber  
+arXiv preprint, 2025  
+
+2. **[Exploring the Cognitive Knowledge Structure of Large Language Models: An Educational Diagnostic Assessment Approach](https://aclanthology.org/2023.findings-emnlp.111/)**  
+[Z. Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en), J. Yu, J. Li, L. Hou  
+In *Findings of EMNLP 2023*  
+
+3. **[EmoBench: Evaluating the Emotional Intelligence of Large Language Models](https://aclanthology.org/2024.acl-long.326/)**  
+S. Sabour, S. Liu, [Z. Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en), J. M. Liu, J. Zhou, et al.  
+In *Proceedings of ACL 2024*  
+
+4. **[Reverse That Number! Decoding Order Matters in Arithmetic Learning](https://arxiv.org/abs/2403.05845)**  
+D. Zhang-Li, N. Lin, J. Yu, [Z. Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en), Z. Yao, et al.  
+arXiv preprint, 2024  
 
 ### AI for Education
 
-- **Zhang, Z.**\*, Zhang-Li, D.\*, Yu, J., Gong, L., Zhou, J., Liu, Z., Hou, L., Li, J. (2024). Simulating Classroom Education with LLM-Empowered Agents. *NAACL 2025*. [[pdf](https://arxiv.org/abs/2406.19226)]
-- Tu, S.\*, **Zhang, Z.**\*, Yu, J., Li, C., Zhang, S., Yao, Z., ... Li, J. (2023). LittleMu: Deploying an Online Virtual Teaching Assistant via Heterogeneous Sources Integration and Chain of Teach Prompts. *CIKM 2023*. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3583780.3615484)]
-- Zhang-Li, D.\*, **Zhang, Z.**\*, Yu, J., Yin, J. L. J., Tu, S., Gong, L., ... Li, J. (2024). Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination. *KDD 2025* [[pdf](https://arxiv.org/abs/2409.07372)]
-- Yu, J., **Zhang, Z.**, Zhang-Li, D., Tu, S., Hao, Z., Li, R. M., ... Sun, M. (2024). From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents. arXiv preprint arXiv:2409.03512. [[pdf](https://arxiv.org/abs/2409.03512v1)]
+5. **[Simulating Classroom Education with LLM-Empowered Agents](https://arxiv.org/abs/2406.19226)**  
+[Z. Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en)\*, D. Zhang-Li\*, J. Yu, L. Gong, J. Zhou, Z. Liu, L. Hou, J. Li  
+In *Proceedings of NAACL 2025*  
+
+6. **[LittleMu: Deploying an Online Virtual Teaching Assistant via Heterogeneous Sources Integration and Chain of Teach Prompts](https://dl.acm.org/doi/pdf/10.1145/3583780.3615484)**  
+S. Tu\*, [Z. Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en)\*, J. Yu, C. Li, S. Zhang, Z. Yao, et al.  
+In *Proceedings of CIKM 2023*  
+
+7. **[Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination](https://arxiv.org/abs/2409.07372)**  
+D. Zhang-Li\*, [Z. Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en)\*, J. Yu, J. L. J. Yin, S. Tu, L. Gong, et al.  
+In *Proceedings of KDD 2025*  
+
+8. **[From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents](https://arxiv.org/abs/2409.03512v1)**  
+J. Yu, [Z. Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en), D. Zhang-Li, S. Tu, Z. Hao, R. M. Li, et al.  
+arXiv preprint, 2024  
+
 
 
 Professional Services
