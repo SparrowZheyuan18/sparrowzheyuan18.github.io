@@ -12,29 +12,29 @@ author_profile: true
 ### 2025
 - **[Simulating Classroom Education with LLM-Empowered Agents](https://arxiv.org/abs/2406.19226)**  
   [Zhang, Z.](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en)\*, Zhang-Li, D.\*, Yu, J., Gong, L., Zhou, J., Liu, Z., Hou, L., Li, J.  
-  In *Proceedings of NAACL 2025*
+  *NAACL 2025*
 
 ### 2024
 - **[EmoBench: Evaluating the Emotional Intelligence of Large Language Models](https://aclanthology.org/2024.acl-long.326/)**  
   Sabour, S., Liu, S., [Zhang, Z.](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en), Liu, J. M., Zhou, J., ... Huang, M.  
-  In *Proceedings of ACL 2024*
+  *ACL 2024*
 
 - **[KoLA: Carefully Benchmarking World Knowledge of Large Language Models](https://arxiv.org/pdf/2306.09296.pdf)**  
   Jifan Yu\*, Xiaozhi Wang\*, Shangqing Tu\*, ... [Zhang, Z.](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en), ... Li, J.  
-  In *Proceedings of ICLR 2024*
+  *ICLR 2024*
 
 - **[Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination](https://arxiv.org/abs/2409.07372)**  
   Zhang-Li, D.\*, [Zhang, Z.](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en)\*, Yu, J., Yin, J. L. J., Tu, S., Gong, L., ... Li, J.  
-  In *Proceedings of KDD 2025*
+  *KDD 2025*
 
 ### 2023
 - **[Exploring the Cognitive Knowledge Structure of Large Language Models: An Educational Diagnostic Assessment Approach](https://aclanthology.org/2023.findings-emnlp.111/)**  
   [Zhang, Z.](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en), Yu, J., Li, J., Hou, L.  
-  In *Findings of EMNLP 2023*
+  *Findings of EMNLP 2023*
 
 - **[LittleMu: Deploying an Online Virtual Teaching Assistant via Heterogeneous Sources Integration and Chain of Teach Prompts](https://dl.acm.org/doi/pdf/10.1145/3583780.3615484)**  
   Tu, S.\*, [Zhang, Z.](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en)\*, Yu, J., Li, C., Zhang, S., Yao, Z., ... Li, J.  
-  In *Proceedings of CIKM 2023*
+  *CIKM 2023*
 
 ## Preprints
 - **[NAVIG: Natural Language-guided Analysis with Vision Language Models for Image Geo-localization](https://arxiv.org/abs/2502.14638)**  
