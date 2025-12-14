@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year Ph.D. student at CMU LTI, advised by [Prof. Sherry Wu](https://www.cs.cmu.edu/~sherryw/) at the [WInE Lab🍷](https://www.cs.cmu.edu/~sherryw/group.html). 
 
-I did my master at [KEG](https://keg.cs.tsinghua.edu.cn/) in Tsinghua University. I was fortunate to work with [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). I visited [CLIP Lab@UMD](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) in 2024 where I work with [Prof. Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/). 
+I did my master at [THUKEG](https://keg.cs.tsinghua.edu.cn/). I was fortunate to work with [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). I visited [CLIP Lab@UMD](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) in 2024 where I work with [Prof. Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/). 
 
 I obtained my Bachelor of Laws (LL.B.) degree in Philosophy, Politics, and Economy ([PPE](https://www.xyc.tsinghua.edu.cn/en/info/1111/1373.htm)) and a minor in Psychology at Tsinghua University. 
 
