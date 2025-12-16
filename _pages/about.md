@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Zheyuan Zhang"
 author_profile: true
 redirect_from: 
   - /about/
