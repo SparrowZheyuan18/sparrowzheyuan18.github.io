@@ -32,7 +32,7 @@ I believe deep research agents should be fundamentally user-centric---assisting 
 News
 ------
 
-- [Dec 2025] MAIC has reached more than 80,000 learners.
+- [Dec 2025] MAIC has reached more than 90,000 learners.
 - [Aug 2025] Excited to join CMU LTI as a Ph.D. student!
 - [Jan 2025] Our paper [SimClass](https://arxiv.org/abs/2406.19226) is **accepted by NAACL 2025**. See you in New Mexico!
 - [Nov 2024] Our paper [Slide2Lecture](https://arxiv.org/abs/2409.07372) is **accepted by KDD 2025**!!!
