@@ -53,11 +53,11 @@ Selected Publications
 
 **[2. Exploring the Cognitive Knowledge Structure of Large Language Models: An Educational Diagnostic Assessment Approach](https://aclanthology.org/2023.findings-emnlp.111/)**  
 [Zheyuan Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en), Jifan Yu, Juanzi Li, Lei Hou  
-In *Findings of EMNLP 2023*  
+*Findings of EMNLP 2023*  
 
 **[3. EmoBench: Evaluating the Emotional Intelligence of Large Language Models](https://aclanthology.org/2024.acl-long.326/)**  
 Sahand Sabour, Siyang Liu, [Zheyuan Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en), June M. Liu, Jinfeng Zhou, et al.  
-In *Proceedings of ACL 2024*  
+*ACL 2024*  
 
 **[4. Reverse That Number! Decoding Order Matters in Arithmetic Learning](https://arxiv.org/abs/2403.05845)**  
 Daniel Zhang-Li, Nianyi Lin, Jifan Yu, [Zheyuan Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en), Zijun Yao, et al.  
@@ -67,15 +67,15 @@ Daniel Zhang-Li, Nianyi Lin, Jifan Yu, [Zheyuan Zhang](https://scholar.google.co
 
 **[5. Simulating Classroom Education with LLM-Empowered Agents](https://arxiv.org/abs/2406.19226)**  
 [Zheyuan Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en)\*, Daniel Zhang-Li\*, Jifan Yu, Linlu Gong, Jinchang Zhou, Zhiyuan Liu, Lei Hou, Juanzi Li  
-In *Proceedings of NAACL 2025*  
+*NAACL 2025*  
 
 **[6. LittleMu: Deploying an Online Virtual Teaching Assistant via Heterogeneous Sources Integration and Chain of Teach Prompts](https://dl.acm.org/doi/pdf/10.1145/3583780.3615484)**  
 Shangqing Tu\*, [Zheyuan Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en)\*, Jifan Yu, Chunyang Li, Siyu Zhang, Zijun Yao, et al.  
-In *Proceedings of CIKM 2023*  
+*CIKM 2023*  
 
 **[7. Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination](https://arxiv.org/abs/2409.07372)**  
 Daniel Zhang-Li\*, [Zheyuan Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en)\*, Jifan Yu, Joy Lim Jia Yin, Shangqing Tu, Linlu Gong, et al.  
-In *Proceedings of KDD 2025*  
+*KDD 2025*  
 
 **[8. From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents](https://arxiv.org/abs/2409.03512v1)**  
 Jifan Yu, [Zheyuan Zhang](https://scholar.google.com/citations?user=mKeVR_oAAAAJ&hl=en), Daniel Zhang-Li, Shangqing Tu, Zhanxin Hao, Ruimiao Li, et al.  
