@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at CMU LTI, advised by [Prof. Sherry Wu](https://www.cs.cmu.edu/~sherryw/) at the [WInE Lab🍷](https://www.cs.cmu.edu/~sherryw/group.html). 
+I am a second-year Ph.D. student at CMU LTI, advised by [Prof. Sherry Wu](https://www.cs.cmu.edu/~sherryw/) at the [WInE Lab🍷](https://www.cs.cmu.edu/~sherryw/group.html). 
 
 I did my master at [THUKEG](https://keg.cs.tsinghua.edu.cn/) where I was fortunate to work with [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). I visited [CLIP Lab@UMD](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) in 2024 where I work with [Prof. Jordan Boyd-Graber](https://users.umiacs.umd.edu/~jbg/). 
 
@@ -23,11 +23,7 @@ I am dedicated to understanding advanced models from the perspectives of intelli
 
 1. **Cognitively Understanding and Improving Language Models**: [Cognitive Diagnostic of LLMs](https://aclanthology.org/2023.findings-emnlp.111/), [EmoBench](https://aclanthology.org/2024.acl-long.326/), [Arithmetic Learning](https://arxiv.org/abs/2403.05845), [KoLA](https://iclr.cc/virtual/2024/poster/19238).
 2. **AI for Education**: [SimClass](https://arxiv.org/abs/2406.19226), [MAIC](https://arxiv.org/abs/2409.03512v1), [Slide2Lecture](https://arxiv.org/abs/2409.07372), [LittleMu](https://arxiv.org/abs/2308.05935).
-
-I'm currently working on ***Human-Agent Interaction***, particularly Deep Research, Collaborative Literature Exploration, and Sensemaking. 
-
-I believe deep research agents should be fundamentally user-centric---assisting users to make sense and inspiring new ideas---making sustained user engagement essential. I study how users make decisions (data) and how to sensemake collaboratively (model).
-
+3. 
 
 News
 ------
